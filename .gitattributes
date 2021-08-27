@@ -1,0 +1,2 @@
+Slides/** filter=lfs diff=lfs merge=lfs -text
+Drills/** filter=lfs diff=lfs merge=lfs -text
